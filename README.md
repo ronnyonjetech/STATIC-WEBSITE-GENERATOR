@@ -1,5 +1,21 @@
 # STATIC-WEBSITE-GENERATOR
 
+
+
+
+
+
+
+           ******************************
+             Run The Deployed Web App
+           ******************************
+-This is the easiest way to run this website.You can just follow the link below:
+ 
+ http://ronnyonje.pythonanywhere.com/
+           
+
+
+
             *****************************
                Run The Project Locally
             *****************************
